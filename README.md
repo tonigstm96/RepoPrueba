@@ -1,2 +1,3 @@
 # RepoPrueba
-Repositorio para pruebas con Github para la asignatura de Entornos de Desarrollo
+Repositorio para pruebas con Github, creado para la asignatura de Entornos de Desarrollo.
+
